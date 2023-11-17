@@ -1,0 +1,22 @@
+.cabecalho {
+    background-color: aqua;
+    color: burlywood;
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 10px 0;
+}
+
+.cabecalho-imagem {
+    width: 10px;
+    margin: 0%;
+    padding: 0%;
+}
+
+.cabecalho-lista-item {
+    display: inline-block;
+    margin: 0 30px;
+    font: size 100px;
+
+
+}
